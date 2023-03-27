@@ -17,7 +17,7 @@ Dessa forma, o programa oferece uma maneira simples e prática de obter informa�
 Para instalar o ExDNS basta clonar o repositório do github:
 
 ```bash
-$ git clone https://github.com/jhonimenezes/dnsexpl0rer
+$ git clone https://github.com/jhonimenezes/ExpD
 
 ```
 

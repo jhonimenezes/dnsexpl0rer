@@ -38,7 +38,10 @@ $ python3 ExDNS.py
 
 Quando solicitado informe o nome do host que deseja verificar
 
-![Imagem execução](https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3BORSGYJDYIETP5UMZBBWBQQ.png)
+
+<img src="https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3F2RLM4KRPVCSXUECZBBXCAQ"></img>
+
+<!--![Imagem execução](https://github.com/jhonimenezes/img/blob/main/execucaoprograma.png)-->
 
 Em seguida será solicitado o nome da wordlist
 

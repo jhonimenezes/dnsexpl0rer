@@ -26,11 +26,11 @@ Em seguida entre na pasta do projeto:
 
 Para executar o programa basta digitar:
 
-`python3 ExDNS.py`
+```python3 ExDNS.py```
 
 Quando solicitado informe o nome do host que seseja verificar
 
-![](https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3BORSGYJDYIETP5UMZBBWBQQ)
+![Imagem execução](https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3BORSGYJDYIETP5UMZBBWBQQ)
 
 Em seguida será solicitado o nome da wordlist
 
@@ -40,7 +40,7 @@ Caso queira utilizar outra wordlist de sua preferencia basta salvar dentro do di
 
 Ex:
 
-`Digite o nome da wordlist: wordlistEdit.txt`
+```Digite o nome da wordlist: wordlistEdit.txt```
 
 #### Observação:
 Caso o arquvo esteja sem a extenção visivel digite o nome sem a extenção. ex:

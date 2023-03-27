@@ -23,7 +23,7 @@ def interromper_execucao(signal, frame):
 signal.signal(signal.SIGINT, interromper_execucao)
 
 #Cria uma arte em ASCII na parte superior
-ascii_art = pyfiglet.figlet_format("ExDNS")
+ascii_art = pyfiglet.figlet_format("ExpD")
 
 #Imprime a arte na tela
 os.system('cls' if os.name == 'nt' else 'clear')

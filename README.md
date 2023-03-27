@@ -36,7 +36,7 @@ $ python3 ExDNS.py
 
 ```
 
-Quando solicitado informe o nome do host que seseja verificar
+Quando solicitado informe o nome do host que deseja verificar
 
 ![Imagem execução](https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3BORSGYJDYIETP5UMZBBWBQQ.png)
 
@@ -54,7 +54,7 @@ Digite o nome da wordlist: wordlistEdit.txt
 ```
 
 #### Observação:
-Caso o arquvo esteja sem a extenção visivel digite o nome sem a extenção. ex:
+Caso o arquvo esteja sem a extenção visível, digite o nome sem a extenção. ex:
 
 > ***wordlist***
 

@@ -14,7 +14,7 @@ Dessa forma, o programa oferece uma maneira simples e prática de obter informa�
 
 # Instalação
 
-Para instalar o ExDNS basta clonar o repositório do github:
+Para instalar o ExpD basta clonar o repositório do github:
 
 ```bash
 $ git clone https://github.com/jhonimenezes/ExpD
@@ -36,7 +36,11 @@ $ python3 ExpD.py
 
 ```
 
-Quando solicitado informe o nome do host que deseja verificar
+*Quando solicitado informe o nome do host que deseja verificar.*
+
+```bash
+$ Digite o nome do host: sitevuln.com
+```
 
 <!--![Imagem execução](https://github.com/jhonimenezes/img/blob/main/execucaoprograma.png)-->
 

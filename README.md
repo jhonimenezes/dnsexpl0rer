@@ -4,11 +4,11 @@
 
 # Dependências
 
-- [Python 3](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
 
 # Introdução
  
-O programa desenvolvido em Python foi desenvolvido para realizar duas tarefas principais:  Obter as informações  DNS de um host e verificar se uma lista de diretórios ocultas especificadas por uma wordlist existe ou não. Por padrão a wordlist é a mesma utilizada no Dirb.
+O programa desenvolvido em Python foi desenvolvido para realizar a principal tarefa: verificar se uma lista de diretórios ocultas especificadas por uma wordlist existe ou não. Por padrão a wordlist é a mesma utilizada no Dirb.
 
 Dessa forma, o programa oferece uma maneira simples e prática de obter informações  DNS de um host para verificar a existência de diretórios em uma lista especificada em um arquivo padrão ou **CRIADA** pelo usuário.
 

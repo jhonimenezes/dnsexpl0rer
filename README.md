@@ -24,7 +24,7 @@ $ git clone https://github.com/jhonimenezes/ExpD
 Em seguida entre na pasta do projeto:
 
 ```bash
-$ cd dnsexplorer
+$ cd ExpD
 ```
 
 # Execução
@@ -32,7 +32,7 @@ $ cd dnsexplorer
 Para executar o programa basta digitar:
 
 ```bash
-$ python3 ExDNS.py
+$ python3 ExpD.py
 
 ```
 

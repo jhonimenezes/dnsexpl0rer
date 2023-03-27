@@ -38,9 +38,6 @@ $ python3 ExpD.py
 
 Quando solicitado informe o nome do host que deseja verificar
 
-
-<img src="https://raw.githubusercontent.com/jhonimenezes/img/main/execucaoprograma.png?token=GHSAT0AAAAAACAFWSG3F2RLM4KRPVCSXUECZBBXCAQ"></img>
-
 <!--![Imagem execução](https://github.com/jhonimenezes/img/blob/main/execucaoprograma.png)-->
 
 Em seguida será solicitado o nome da wordlist

@@ -1,14 +1,14 @@
 # **ExDNS**
 ![Bower](https://img.shields.io/bower/l/bootstrap)
-![GitHub file size in bytes](https://img.shields.io/github/size/jhonimenezes/dnsexpl0rer/ExDNS.py)
+![GitHub file size in bytes](https://img.shields.io/github/size/jhonimenezes/dnsexpl0rer/ExpD.py)
 
 # Dependências
 
-- [Python 3](https://www.python.org/downloads/)
+- [Python](https://www.python.org/downloads/)
 
 # Introdução
  
-O programa desenvolvido em Python foi desenvolvido para realizar duas tarefas principais:  Obter as informações  DNS de um host e verificar se uma lista de diretórios ocultas especificadas por uma wordlist existe ou não. Por padrão a wordlist é a mesma utilizada no Dirb.
+O programa desenvolvido em Python foi desenvolvido para realizar a principal tarefa: verificar se uma lista de diretórios ocultas especificadas por uma wordlist existe ou não. Por padrão a wordlist é a mesma utilizada no Dirb.
 
 Dessa forma, o programa oferece uma maneira simples e prática de obter informações  DNS de um host para verificar a existência de diretórios em uma lista especificada em um arquivo padrão ou **CRIADA** pelo usuário.
 
@@ -17,14 +17,14 @@ Dessa forma, o programa oferece uma maneira simples e prática de obter informa�
 Para instalar o ExDNS basta clonar o repositório do github:
 
 ```bash
-$ git clone https://github.com/jhonimenezes/dnsexpl0rer
+$ git clone https://github.com/jhonimenezes/ExpD
 
 ```
 
 Em seguida entre na pasta do projeto:
 
 ```bash
-$ cd dnsexplorer
+$ cd ExpD
 ```
 
 # Execução
@@ -32,7 +32,7 @@ $ cd dnsexplorer
 Para executar o programa basta digitar:
 
 ```bash
-$ python3 ExDNS.py
+$ python3 ExpD.py
 
 ```
 

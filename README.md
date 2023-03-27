@@ -16,17 +16,25 @@ Dessa forma, o programa oferece uma maneira simples e prática de obter informa�
 
 Para instalar o ExDNS basta clonar o repositório do github:
 
-`$ git clone https://github.com/jhonimenezes/dnsexpl0rer`
+```bash
+$ git clone https://github.com/jhonimenezes/dnsexpl0rer
+
+```
 
 Em seguida entre na pasta do projeto:
 
-`cd dnsexplorer`
+```bash
+$ cd dnsexplorer
+```
 
 # Execução
 
 Para executar o programa basta digitar:
 
-```python3 ExDNS.py```
+```bash
+$ python3 ExDNS.py
+
+```
 
 Quando solicitado informe o nome do host que seseja verificar
 
@@ -40,7 +48,10 @@ Caso queira utilizar outra wordlist de sua preferencia basta salvar dentro do di
 
 Ex:
 
-```Digite o nome da wordlist: wordlistEdit.txt```
+```bash
+Digite o nome da wordlist: wordlistEdit.txt
+
+```
 
 #### Observação:
 Caso o arquvo esteja sem a extenção visivel digite o nome sem a extenção. ex:

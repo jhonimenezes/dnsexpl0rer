@@ -16,7 +16,7 @@ def verificar_diretorio_ativo(url):
     
 #Função para tratar o sinal de interrupção
 def interromper_execucao(signal, frame):
-    print(f"  {Fore.RED}[XX] {Style.RESET_ALL} O usuário interrompeu a execução do programa.\n")
+    print(f" \n\n {Fore.RED}[XX]  O usuário interrompeu a execução do programa.{Style.RESET_ALL}\n")
     exit(0)
 
 #Define o tratador de sinal para o sinal SIGINT

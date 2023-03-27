@@ -1,4 +1,4 @@
-# **ExDNS**
+# **ExpD**
 ![Bower](https://img.shields.io/bower/l/bootstrap)
 ![GitHub file size in bytes](https://img.shields.io/github/size/jhonimenezes/dnsexpl0rer/ExpD.py)
 
